@@ -1,2 +1,3 @@
-# 3D_ResNet_CBAM_AD
-3D_ResNet_CBAM for AD classification
+
+3D_ResNet_CBAM for Alzheimer's Disease classification
+ADNI dataset used
